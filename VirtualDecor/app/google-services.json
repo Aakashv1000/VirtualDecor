@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237626999336",
+    "firebase_url": "https://virtualstore-bebfa.firebaseio.com",
+    "project_id": "virtualstore-bebfa",
+    "storage_bucket": "virtualstore-bebfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237626999336:android:1a077638bbdca3f8d66b1d",
+        "android_client_info": {
+          "package_name": "com.example.virtualdecor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237626999336-opetl0iv5tgbqnbmpqdu1iiaj94e86mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfc4kVPO4dVQlYNOW-7wEZR7q61pZJKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237626999336-opetl0iv5tgbqnbmpqdu1iiaj94e86mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
